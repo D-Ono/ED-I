@@ -1,0 +1,5 @@
+Exercício
+Implementar as seguintes operações em uma lista estática sequencial:
+● Inserção de um elemento na posição ​i
+● Remoção do i-ésino elemento
+● Imprimir a lista de forma recursiva
