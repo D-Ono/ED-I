@@ -62,13 +62,15 @@ void Insere(LISTA *l, int elem, int *flag){
         return;
     }
 
-    if (i == -1)
+    if (i == -1){
         l->prim = l->disp;
+        }
     else{
         while(l->A[i].prox != -1)
             i= l->A[i].prox;
         l->A[i].prox = l->disp;
     }
+
     i = l->disp;
     l->disp = l->A[i].prox;
     l->A[i].elem = elem;
