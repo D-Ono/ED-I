@@ -1,0 +1,26 @@
+vai na pasta que quer
+git clone url 
+cd EJPets
+git checkout -b inicio
+. code
+
+Para rodar
+
+yarn 
+yarn start
+
+
+se mudar
+
+git status 
+git add *
+git status
+git commit -m "Commit q quiser"
+git push origin "nome da brench(inicio)"
+
+Na Pull Request vc pode aceitar ou deixa pro Erick
+
+
+
+
+vs code styled components
