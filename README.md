@@ -9,3 +9,6 @@ As listas estão organizadas da seguinte forma:
 
 1. TAD
 2. Lista Estatica Sequencial
+3. String Dinâmica 
+4. Pilha
+5. Filas
